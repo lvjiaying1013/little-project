@@ -1,0 +1,73 @@
+{
+    "errno": 0,
+    "errmsg": "okkkk",
+    "msg": "ok",
+    "data": {
+        "dealPackage": [{
+            "title": "\u3010\u7530\u56ed\u98ce\u5149\u3011-\u65c5\u62cd\u7cfb\u5217",
+            "banner": ["http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=dae6ef7e38fae6cd0ce1a36736832310\/b58f8c5494eef01f77e4168cedfe9925bd317d82.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=1ffc312cbe19ebc4c02d7e9fbb16e3c8\/810a19d8bc3eb1355537b9f2ab1ea8d3fc1f4482.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=f4feea6a7ef082022dc7993972cbd7d9\/8cb1cb134954092384e16d379f58d109b2de49ea.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=8d88408d07d162d985bb6a1a28ef85d8\/0ff41bd5ad6eddc4de5abab234dbb6fd5266333d.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=de9a683af6f2b211e47b8d48f3b0490c\/8601a18b87d6277f508d3c7125381f30e824fcd8.jpg"],
+            "curPrice": "5999",
+            "oriPrice": "0",
+            "content": {
+                "list": [{
+                    "name": "\u65f6\u95f4\u5730\u70b9",
+                    "value": "\u4e00\u5929\u62cd\u6444\u3001\u4e24\u5957\u573a\u666f"
+                }, {
+                    "name": "\u8d85\u503c\u670d\u52a1",
+                    "value": "\u5168\u7a0b\u4e00\u5bf9\u4e00\u670d\u52a1"
+                }, {
+                    "name": "\u670d\u88c5\u9020\u578b",
+                    "value": "\u63d0\u4f9b\u65b0\u90ce\u9020\u578b2\u5957\u3001\u65b0\u5a18\u9020\u578b4\u5957"
+                }],
+                "intro": "\u4e2d\u56fd\u4e00\u7ad9\u5f0f\u5a5a\u7eb1\u6444\u5f71\u54c1\u724c\uff0c\u5168\u7403\u6253\u9020\u4eba\u4f53\u6700\u4e3a\u8212\u9002\u768427\uff0c\u56db\u5b63\u6052\u6e29\u7efc\u5408\u5f71\u89c6\u57fa\u5730\uff0c300\u591a\u4e2a\u573a\u666f\u5168\u7a0b\u5f00\u653e\uff0c\u670d\u88c5\u3001\u88c5\u9970\u7b49\u98ce\u683c\u573a\u666f\u53d8\u5316\u800c\u642d\u914d\u3002"
+            },
+            "tag": "\u6237\u5916#\u4e1c\u5357\u4e9a",
+            "front": ["http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=1ffc312cbe19ebc4c02d7e9fbb16e3c8\/810a19d8bc3eb1355537b9f2ab1ea8d3fc1f4482.jpg"],
+            "pic": "",
+            "packageId": "bcd4599998923896ab0433e3b442817d"
+        }, {
+            "title": "\u3010\u8584\u66ae\u98ce\u8f7b\u3011-\u65c5\u62cd\u7cfb\u5217",
+            "banner": ["http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=61c283e0a4014c08196e20a3334b2e3c\/9345d688d43f87942c244667df1b0ef41ad53a9b.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=d0280daad839b6004d9b07b1d060191e\/b151f8198618367a1f52719423738bd4b21ce5a4.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=4b56b72d99eef01f4d4110c3d9ceb511\/f31fbe096b63f62494b9374a8a44ebf81b4ca397.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=5405b6c8c61349547e4be0626f7ebe6c\/d62a6059252dd42a22ee0fe20e3b5bb5c8eab897.jpg", "http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=46e5a921dc09b3deebeaec6ef58f40b5\/023b5bb5c9ea15ce2678ee40bb003af33b87b2e0.jpg"],
+            "curPrice": "5888",
+            "oriPrice": "0",
+            "content": {
+                "list": [{
+                    "name": "\u65f6\u95f4\u5730\u70b9",
+                    "value": "\u4e00\u5929\u62cd\u6444\u3001\u4e24\u5957\u573a\u666f"
+                }, {
+                    "name": "\u8d85\u503c\u670d\u52a1",
+                    "value": "\u5168\u7a0b\u4e00\u5bf9\u4e00\u670d\u52a1"
+                }, {
+                    "name": "\u670d\u88c5\u9020\u578b",
+                    "value": "\u63d0\u4f9b\u65b0\u90ce\u9020\u578b2\u5957\u3001\u65b0\u5a18\u9020\u578b4\u5957"
+                }],
+                "intro": "\u4e2d\u56fd\u4e00\u7ad9\u5f0f\u5a5a\u7eb1\u6444\u5f71\u54c1\u724c\uff0c\u5168\u7403\u6253\u9020\u4eba\u4f53\u6700\u4e3a\u8212\u9002\u768427\uff0c\u56db\u5b63\u6052\u6e29\u7efc\u5408\u5f71\u89c6\u57fa\u5730\uff0c300\u591a\u4e2a\u573a\u666f\u5168\u7a0b\u5f00\u653e\uff0c\u670d\u88c5\u3001\u88c5\u9970\u7b49\u98ce\u683c\u573a\u666f\u53d8\u5316\u800c\u642d\u914d\u3002"
+            },
+            "tag": "\u591c\u666f#\u8349\u576a",
+            "front": ["http:\/\/hiphotos.bdimg.com\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=61c283e0a4014c08196e20a3334b2e3c\/9345d688d43f87942c244667df1b0ef41ad53a9b.jpg"],
+            "pic": "",
+            "packageId": "a7ae9092928cc12ebba32e0bc3488e79"
+        }],
+        "poiMobile": "18512278568",
+        "merchant": {
+            "poiId": "102618650",
+            "poiName": "vol\u00e9\u67cf\u60a6\u65f6\u5c1a\u827a\u672f\u9986",
+            "address": "\u5317\u4eac\u5e02\u660c\u5e73\u533a\u7acb\u6c64\u8def186\u53f7\u9f99\u5fb7\u5e7f\u573a4\u5c42F420",
+            "phone": ["18512278568"],
+            "distance": 12235097,
+            "tag": {
+                "103": {
+                    "tag_id": "103",
+                    "extend_fields": {
+                        "poi_schema_source": "deco_free",
+                        "deco_na_poi_schema": "bainuo:\/\/component?compid=merchant&comppage=home&merchantId=102618650",
+                        "deco_wap_poi_url": "https:\/\/m.nuomi.com\/component?compid=merchant&comppage=home&merchantId=102618650"
+                    }
+                }
+            }
+        },
+        "reserveType": 0,
+        "reserveSchema": "bainuo:\/\/component?compid=winport-landing-page&comppage=reserve&merchantId=102618650"
+    },
+    "s": ""
+}

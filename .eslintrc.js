@@ -20,6 +20,7 @@ module.exports = {
         "react"
     ],
     "rules": {
+        'no-did-mount-set-state': 0
     },
     'extends': [
         'plugin:react/recommended'
